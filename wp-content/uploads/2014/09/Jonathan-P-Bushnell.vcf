@@ -1,0 +1,26 @@
+BEGIN:VCARD
+PROFILE:VCARD
+VERSION:3.0
+MAILER:Microsoft Exchange
+PRODID:Microsoft Exchange
+FN:Jonathan P. Bushnell
+N:Bushnell;Jonathan;P.;;
+EMAIL;TYPE=INTERNET:IMCEAEX-_o=First+20Organization_ou=first+20administrati
+ ve+20group_cn=Recipients_cn=jbushnell@exch031.domain.local
+NOTE:\n\n
+ORG:Carl Marks Advisors;
+CLASS:PUBLIC
+ADR;TYPE=WORK,PREF:;;212 S. Tryon Street\, Suite 1685;Charlotte;NC;28281;Un
+ ited States of America
+LABEL;TYPE=WORK,PREF:212 S. Tryon Street\, Suite 1685\nCharlotte\, NC  2828
+ 1
+ADR;TYPE=HOME:;;;;;;
+LABEL;TYPE=HOME:
+ADR;TYPE=POSTAL:;;;;;;
+LABEL;TYPE=POSTAL:
+TEL;TYPE=WORK:(704) 714-1240
+TEL;TYPE=CELL:(908) 399-2306
+TITLE:Director
+X-MS-IMADDRESS:
+REV;VALUE=DATE-TIME:2014-09-18T17:48:15,033Z
+END:VCARD

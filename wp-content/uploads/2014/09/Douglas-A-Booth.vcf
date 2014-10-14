@@ -1,0 +1,24 @@
+BEGIN:VCARD
+PROFILE:VCARD
+VERSION:3.0
+MAILER:Microsoft Exchange
+PRODID:Microsoft Exchange
+FN:Douglas A. Booth
+N:Booth;Douglas;A.;;
+EMAIL;TYPE=INTERNET:dbooth@carlmarks.com
+NOTE:\n\n
+ORG:Carl Marks Advisors;
+CLASS:PUBLIC
+ADR;TYPE=WORK,PREF:;;900 Third Avenue\, 33rd Floor;New York;NY;10022;United
+  States of America
+LABEL;TYPE=WORK,PREF:900 Third Avenue\, 33rd Floor\nNew York\, NY  10022
+ADR;TYPE=HOME:;;;;;;
+LABEL;TYPE=HOME:
+ADR;TYPE=POSTAL:;;;;;;
+LABEL;TYPE=POSTAL:
+TEL;TYPE=WORK:(212) 909-8400
+TEL;TYPE=CELL:(843) 810-3792
+TITLE:Partner
+X-MS-IMADDRESS:
+REV;VALUE=DATE-TIME:2014-09-18T17:45:14,797Z
+END:VCARD

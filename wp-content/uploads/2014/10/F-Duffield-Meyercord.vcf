@@ -1,0 +1,25 @@
+BEGIN:VCARD
+PROFILE:VCARD
+VERSION:3.0
+MAILER:Microsoft Exchange
+PRODID:Microsoft Exchange
+FN:F. Duffield Meyercord
+N:Meyercord;F.;Duffield;;
+EMAIL;TYPE=INTERNET:IMCEAEX-_o=First+20Organization_ou=first+20administrati
+ ve+20group_cn=Recipients_cn=dmeyercord@exch031.domain.local
+NOTE:\n\n
+ORG:Carl Marks Advisors;
+CLASS:PUBLIC
+ADR;TYPE=WORK,PREF:;;900 Third Avenue\, 33rd Floor;New York;NY;10022;United
+  States of America
+LABEL;TYPE=WORK,PREF:900 Third Avenue\, 33rd Floor\nNew York\, NY  10022
+ADR;TYPE=HOME:;;;;;;
+LABEL;TYPE=HOME:
+ADR;TYPE=POSTAL:;;;;;;
+LABEL;TYPE=POSTAL:
+TEL;TYPE=WORK:(212) 909-8454
+TEL;TYPE=CELL:(908) 415-0066
+TITLE:Partner
+X-MS-IMADDRESS:
+REV;VALUE=DATE-TIME:2014-09-18T17:55:12,444Z
+END:VCARD

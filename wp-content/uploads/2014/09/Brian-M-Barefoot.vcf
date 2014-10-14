@@ -1,0 +1,23 @@
+BEGIN:VCARD
+PROFILE:VCARD
+VERSION:3.0
+MAILER:Microsoft Exchange
+PRODID:Microsoft Exchange
+FN:Brian M. Barefoot
+N:Barefoot;Brian;M.;;
+EMAIL;TYPE=INTERNET:bbarefoot@carlmarks.com
+NOTE:
+ORG:Carl Marks Advisors;
+CLASS:PUBLIC
+ADR;TYPE=WORK,PREF:;;900 Third Avenue\, 33rd Floor;New York;NY;10022;United
+  States of America
+LABEL;TYPE=WORK,PREF:900 Third Avenue\, 33rd Floor\nNew York\, NY  10022
+ADR;TYPE=HOME:;;;;;;
+LABEL;TYPE=HOME:
+ADR;TYPE=POSTAL:;;;;;;
+LABEL;TYPE=POSTAL:
+TEL;TYPE=WORK:(212) 909-8413
+TEL;TYPE=CELL:(908) 447-5618
+TITLE:Senior Advisor
+REV;VALUE=DATE-TIME:2014-09-18T17:55:22,563Z
+END:VCARD

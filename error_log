@@ -1,0 +1,113 @@
+[08-Aug-2014 21:14:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/content-search.php on line 32
+[08-Aug-2014 21:14:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/content-search.php on line 32
+[14-Aug-2014 20:17:00 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:17:14 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:17:15 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:17:15 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:17:16 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:17:16 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:17:16 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:17:17 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:17:18 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:17:18 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:18:19 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 20:19:02 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/tcgbetac/public_html/carlmarks/wp-includes/query.php on line 2634
+[14-Aug-2014 21:28:37 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 37
+[14-Aug-2014 21:34:09 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:34:19 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:35:02 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:35:02 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:35:03 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:35:14 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:35:15 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:36:29 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:36:32 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:36:33 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:36:34 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:37:21 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:37:23 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:37:56 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:00 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:01 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:01 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:02 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:07 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:10 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:10 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:11 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:12 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:12 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:38:12 UTC] PHP Fatal error:  Call to a member function the_post() on a non-object in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions/scripts.php on line 41
+[14-Aug-2014 21:39:02 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:06 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:06 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:07 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:07 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:07 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:07 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:08 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:08 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:50 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:53 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:53 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:39:53 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:41:23 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:41:26 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:41:27 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:41:27 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[14-Aug-2014 21:41:27 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/templates/page-people.php on line 18
+[26-Aug-2014 18:29:00 UTC] PHP Fatal error:  Function name must be a string in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/content-search.php on line 30
+[29-Aug-2014 16:07:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions.php on line 93
+[29-Aug-2014 16:07:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tcgbetac/public_html/carlmarks/wp-content/themes/wpex-elegant/functions.php on line 93
+[25-Sep-2014 13:57:48 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:57:49 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:57:50 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:57:51 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:57:51 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:57:54 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:57:54 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:02 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:03 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:03 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:26 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:27 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:29 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:31 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:31 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:32 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:47 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:48 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:58:48 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:59:49 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:59:49 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:59:51 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:59:52 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:59:52 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:59:55 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:59:55 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 13:59:55 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 14:00:55 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 14:00:56 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 14:01:01 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 14:01:04 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 14:01:04 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 14:01:47 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[25-Sep-2014 14:01:50 America/Denver] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/tcgbetac/public_html/cma/wp-config.php on line 1
+[02-Oct-2014 21:15:48 UTC] PHP Fatal error:  Call to undefined method WP_Post::the_post() in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-services.php on line 99
+[02-Oct-2014 21:19:11 UTC] PHP Fatal error:  Call to a member function get_queried_object() on a non-object in /home/tcgbetac/public_html/cma/wp-includes/nav-menu-template.php on line 440
+[02-Oct-2014 21:20:51 UTC] PHP Fatal error:  Call to a member function get_queried_object() on a non-object in /home/tcgbetac/public_html/cma/wp-includes/nav-menu-template.php on line 440
+[02-Oct-2014 21:21:07 UTC] PHP Fatal error:  Call to a member function get_queried_object() on a non-object in /home/tcgbetac/public_html/cma/wp-includes/nav-menu-template.php on line 440
+[02-Oct-2014 21:21:45 UTC] PHP Fatal error:  Call to a member function get_queried_object() on a non-object in /home/tcgbetac/public_html/cma/wp-includes/nav-menu-template.php on line 440
+[02-Oct-2014 21:21:50 UTC] PHP Fatal error:  Call to a member function get_queried_object() on a non-object in /home/tcgbetac/public_html/cma/wp-includes/nav-menu-template.php on line 440
+[02-Oct-2014 21:21:51 UTC] PHP Fatal error:  Call to a member function get_queried_object() on a non-object in /home/tcgbetac/public_html/cma/wp-includes/nav-menu-template.php on line 440
+[13-Oct-2014 21:19:27 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-firm.php on line 1
+[13-Oct-2014 21:19:30 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-firm.php on line 1
+[13-Oct-2014 21:19:42 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-firm.php on line 1
+[13-Oct-2014 21:20:03 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-firm.php on line 1
+[13-Oct-2014 21:21:24 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-firm.php on line 1
+[13-Oct-2014 21:22:37 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-firm.php on line 1
+[13-Oct-2014 21:22:41 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-firm.php on line 1
+[13-Oct-2014 21:23:35 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-firm.php on line 1
+[13-Oct-2014 22:04:05 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-firm.php on line 1
+[13-Oct-2014 22:24:45 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-people_advisory_services.php on line 1
+[13-Oct-2014 22:27:51 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home/tcgbetac/public_html/cma/wp-content/themes/wpex-elegant/templates/page-news.php on line 1

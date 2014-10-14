@@ -1,0 +1,25 @@
+BEGIN:VCARD
+PROFILE:VCARD
+VERSION:3.0
+MAILER:Microsoft Exchange
+PRODID:Microsoft Exchange
+FN:J. Jette Campbell
+N:Campbell;J.;Jette;;
+EMAIL;TYPE=INTERNET:jcampbell@carlmarks.com
+NOTE:\n\n
+ORG:Carl Marks Advisors;
+CLASS:PUBLIC
+ADR;TYPE=WORK,PREF:;;212 S. Tryon Street\, Suite 1685;Charlotte;NC;28281;Un
+ ited States of America
+LABEL;TYPE=WORK,PREF:212 S. Tryon Street\, Suite 1685\nCharlotte\, NC  2828
+ 1
+ADR;TYPE=HOME:;;;;;;
+LABEL;TYPE=HOME:
+ADR;TYPE=POSTAL:;;;;;;
+LABEL;TYPE=POSTAL:
+TEL;TYPE=WORK:(704) 714-1240
+TEL;TYPE=CELL:(704) 962-0726
+TITLE:Partner
+X-MS-IMADDRESS:
+REV;VALUE=DATE-TIME:2014-09-18T17:45:26,263Z
+END:VCARD
