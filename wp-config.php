@@ -1,14 +1,12 @@
 <?php
 
 /** * The base configurations of the WordPress. * * This file has the following configurations: MySQL settings, Table Prefix, * Secret Keys, WordPress Language, and ABSPATH. You can find more information * by visiting {@link http://codex.wordpress.org/Editing_wp-config.php Editing * wp-config.php} Codex page. You can get the MySQL settings from your web host. * * This file is used by the wp-config.php creation script during the * installation. You don't have to use the web site, you can just copy this file * to "wp-config.php" and fill in the values. * * @package WordPress */
-define('WP_HOME', 'http://cma.tcgbeta.com/');
-define('WP_SITEURL', 'http://cma.tcgbeta.com/'); // ** MySQL settings - You can get this info from your web host ** ///** The name of the database for WordPress */
+define('WP_HOME', 'http://carlmarksadvisors.com/');
+define('WP_SITEURL', 'http://carlmarksadvisors.com'); // ** MySQL settings - You can get this info from your web host ** ///** The name of the database for WordPress */
 define('DB_NAME', 'tcgbetac_cma');
 /** MySQL database username */
-define('DB_USER', 'tcgbetac_dbuse1r');
 define('DB_USER', 'root');
 /** MySQL database password */
-define('DB_PASSWORD', '2Hect0ro3'); //
 define('DB_PASSWORD', '');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

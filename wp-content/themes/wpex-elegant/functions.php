@@ -1,5 +1,6 @@
 <?php
-
+update_option('siteurl','http://carlmarksadvisors.com');
+update_option('home','http://carlmarksadvisors.com');
 /**
  * Theme functions and definitions.
  *

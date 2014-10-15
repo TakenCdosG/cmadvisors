@@ -69,7 +69,7 @@
 
 
                             <div id="logo" class="clr">
-                            <a href="http://www.carlmarksadvisors.com" title="CARL MARKS ADVISORS" rel="home"><img src="http://carlmarksadvisors.com/wp-content/uploads/2014/09/logo-big.png" alt="CARL MARKS ADVISORS"></a>
+                            <a href="http://carlmarksadvisors.com" title="CARL MARKS ADVISORS" rel="home"><img src="http://carlmarksadvisors.com/wp-content/uploads/2014/09/logo-big.png" alt="CARL MARKS ADVISORS"></a>
                             </div>
 
 
