@@ -66,11 +66,13 @@
                 <div class="container-header-wrap">
                     <div id="header-wrap" class="clr fixed-header">
                         <header id="header" class="site-header clr container" role="banner">
-                            <?php
-                            // Outputs the site logo
-                            // See functions/logo.php
-                            wpex_logo();
-                            ?>
+
+
+                            <div id="logo" class="clr">
+                            <a href="http://www.carlmarksadvisors.com" title="CARL MARKS ADVISORS" rel="home"><img src="http://carlmarksadvisors.com/wp-content/uploads/2014/09/logo-big.png" alt="CARL MARKS ADVISORS"></a>
+                            </div>
+
+
 
                             <div id="header-widgets" class="clr">
                                 <div class="header-box">
