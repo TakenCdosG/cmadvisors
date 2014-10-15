@@ -1,13 +1,17 @@
 <?php
 
+define('ADMIN_COOKIE_PATH', '/');
+define('COOKIE_DOMAIN', '');
+define('COOKIEPATH', '');
+define('SITECOOKIEPATH', '');
 /** * The base configurations of the WordPress. * * This file has the following configurations: MySQL settings, Table Prefix, * Secret Keys, WordPress Language, and ABSPATH. You can find more information * by visiting {@link http://codex.wordpress.org/Editing_wp-config.php Editing * wp-config.php} Codex page. You can get the MySQL settings from your web host. * * This file is used by the wp-config.php creation script during the * installation. You don't have to use the web site, you can just copy this file * to "wp-config.php" and fill in the values. * * @package WordPress */
 define('WP_HOME', 'http://carlmarksadvisors.com/');
-define('WP_SITEURL', 'http://carlmarksadvisors.com'); // ** MySQL settings - You can get this info from your web host ** ///** The name of the database for WordPress */
-define('DB_NAME', 'tcgbetac_cma');
+define('WP_SITEURL', 'http://carlmarksadvisors.com/'); // ** MySQL settings - You can get this info from your web host ** ///** The name of the database for WordPress */
+define('DB_NAME', 'cmadviso_tcgwp');
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'cmadviso_dbuse1');
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'fHI-)=u50wev'); //
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 /** Database Charset to use in creating database tables. */
