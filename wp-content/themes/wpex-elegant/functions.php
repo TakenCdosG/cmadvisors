@@ -338,3 +338,5 @@ add_filter('acf_load_field-tombstones_slider_servide', 'my_acf_load_field');
 
 // v4.0.0 and above
 add_filter('acf/load_field/name=tombstones_slider_servide', 'my_acf_load_field');
+
+remove_filter('template_redirect', 'redirect_canonical');
