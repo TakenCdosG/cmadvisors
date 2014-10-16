@@ -313,6 +313,14 @@ a#navigation-toggle .fa:hover { color:#e6e6e6;}
     .post-title, .post-title.no_has_excerpt{
         margin: 5px 40px 5px 0px!important;
     }
+
+    .home .page-content p.dark-blue span{
+        text-align: left!important;
+    }
+    
+    #footer-widgets .span_1_of_3.col-3 .widget_text .textwidget p br{
+        display: none;
+    }
 }
 
 /* Maximum width of 460 pixels. */
